@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MPCVObject>
+  <Version>
+    <File_Version>1.7</File_Version>
+    <Application>MPC-V</Application>
+    <Application_Version>1.8.2.27</Application_Version>
+    <Platform>Windows</Platform>
+  </Version>
+  <Program type="Plugin">
+    <Name>The Bank 006</Name>
+    <ProgramEditConfig>
+      <Count>96</Count>
+      <Parameter number="1">
+        <Index>0</Index>
+      </Parameter>
+      <Parameter number="2">
+        <Index>1</Index>
+      </Parameter>
+      <Parameter number="3">
+        <Index>2</Index>
+      </Parameter>
+      <Parameter number="4">
+        <Index>3</Index>
+      </Parameter>
+      <Parameter number="5">
+        <Index>4</Index>
+      </Parameter>
+      <Parameter number="6">
+        <Index>5</Index>
+      </Parameter>
+      <Parameter number="7">
+        <Index>6</Index>
+      </Parameter>
+      <Parameter number="8">
+        <Index>7</Index>
+      </Parameter>
+      <Parameter number="9">
+        <Index>8</Index>
+      </Parameter>
+      <Parameter number="10">
+        <Index>9</Index>
+      </Parameter>
+      <Parameter number="11">
+        <Index>10</Index>
+      </Parameter>
+      <Parameter number="12">
+        <Index>11</Index>
+      </Parameter>
+      <Parameter number="13">
+        <Index>12</Index>
+      </Parameter>
+      <Parameter number="14">
+        <Index>13</Index>
+      </Parameter>
+      <Parameter number="15">
+        <Index>14</Index>
+      </Parameter>
+      <Parameter number="16">
+        <Index>15</Index>
+      </Parameter>
+      <Parameter number="17">
+        <Index>16</Index>
+      </Parameter>
+      <Parameter number="18">
+        <Index>17</Index>
+      </Parameter>
+      <Parameter number="19">
+        <Index>18</Index>
+      </Parameter>
+      <Parameter number="20">
+        <Index>19</Index>
+      </Parameter>
+      <Parameter number="21">
+        <Index>20</Index>
+      </Parameter>
+      <Parameter number="22">
+        <Index>21</Index>
+      </Parameter>
+      <Parameter number="23">
+        <Index>22</Index>
+      </Parameter>
+      <Parameter number="24">
+        <Index>23</Index>
+      </Parameter>
+      <Parameter number="25">
+        <Index>24</Index>
+      </Parameter>
+      <Parameter number="26">
+        <Index>25</Index>
+      </Parameter>
+      <Parameter number="27">
+        <Index>26</Index>
+      </Parameter>
+      <Parameter number="28">
+        <Index>27</Index>
+      </Parameter>
+      <Parameter number="29">
+        <Index>28</Index>
+      </Parameter>
+      <Parameter number="30">
+        <Index>29</Index>
+      </Parameter>
+      <Parameter number="31">
+        <Index>30</Index>
+      </Parameter>
+      <Parameter number="32">
+        <Index>31</Index>
+      </Parameter>
+      <Parameter number="33">
+        <Index>32</Index>
+      </Parameter>
+      <Parameter number="34">
+        <Index>33</Index>
+      </Parameter>
+      <Parameter number="35">
+        <Index>34</Index>
+      </Parameter>
+      <Parameter number="36">
+        <Index>35</Index>
+      </Parameter>
+      <Parameter number="37">
+        <Index>36</Index>
+      </Parameter>
+      <Parameter number="38">
+        <Index>37</Index>
+      </Parameter>
+      <Parameter number="39">
+        <Index>38</Index>
+      </Parameter>
+      <Parameter number="40">
+        <Index>39</Index>
+      </Parameter>
+      <Parameter number="41">
+        <Index>40</Index>
+      </Parameter>
+      <Parameter number="42">
+        <Index>41</Index>
+      </Parameter>
+      <Parameter number="43">
+        <Index>42</Index>
+      </Parameter>
+      <Parameter number="44">
+        <Index>43</Index>
+      </Parameter>
+      <Parameter number="45">
+        <Index>44</Index>
+      </Parameter>
+      <Parameter number="46">
+        <Index>45</Index>
+      </Parameter>
+      <Parameter number="47">
+        <Index>46</Index>
+      </Parameter>
+      <Parameter number="48">
+        <Index>47</Index>
+      </Parameter>
+      <Parameter number="49">
+        <Index>48</Index>
+      </Parameter>
+      <Parameter number="50">
+        <Index>49</Index>
+      </Parameter>
+      <Parameter number="51">
+        <Index>50</Index>
+      </Parameter>
+      <Parameter number="52">
+        <Index>51</Index>
+      </Parameter>
+      <Parameter number="53">
+        <Index>52</Index>
+      </Parameter>
+      <Parameter number="54">
+        <Index>53</Index>
+      </Parameter>
+      <Parameter number="55">
+        <Index>54</Index>
+      </Parameter>
+      <Parameter number="56">
+        <Index>55</Index>
+      </Parameter>
+      <Parameter number="57">
+        <Index>56</Index>
+      </Parameter>
+      <Parameter number="58">
+        <Index>57</Index>
+      </Parameter>
+      <Parameter number="59">
+        <Index>58</Index>
+      </Parameter>
+      <Parameter number="60">
+        <Index>59</Index>
+      </Parameter>
+      <Parameter number="61">
+        <Index>60</Index>
+      </Parameter>
+      <Parameter number="62">
+        <Index>61</Index>
+      </Parameter>
+      <Parameter number="63">
+        <Index>62</Index>
+      </Parameter>
+      <Parameter number="64">
+        <Index>63</Index>
+      </Parameter>
+      <Parameter number="65">
+        <Index>64</Index>
+      </Parameter>
+      <Parameter number="66">
+        <Index>65</Index>
+      </Parameter>
+      <Parameter number="67">
+        <Index>66</Index>
+      </Parameter>
+      <Parameter number="68">
+        <Index>67</Index>
+      </Parameter>
+      <Parameter number="69">
+        <Index>68</Index>
+      </Parameter>
+      <Parameter number="70">
+        <Index>69</Index>
+      </Parameter>
+      <Parameter number="71">
+        <Index>70</Index>
+      </Parameter>
+      <Parameter number="72">
+        <Index>71</Index>
+      </Parameter>
+      <Parameter number="73">
+        <Index>72</Index>
+      </Parameter>
+      <Parameter number="74">
+        <Index>73</Index>
+      </Parameter>
+      <Parameter number="75">
+        <Index>74</Index>
+      </Parameter>
+      <Parameter number="76">
+        <Index>75</Index>
+      </Parameter>
+      <Parameter number="77">
+        <Index>76</Index>
+      </Parameter>
+      <Parameter number="78">
+        <Index>77</Index>
+      </Parameter>
+      <Parameter number="79">
+        <Index>78</Index>
+      </Parameter>
+      <Parameter number="80">
+        <Index>79</Index>
+      </Parameter>
+      <Parameter number="81">
+        <Index>80</Index>
+      </Parameter>
+      <Parameter number="82">
+        <Index>81</Index>
+      </Parameter>
+      <Parameter number="83">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="84">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="85">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="86">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="87">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="88">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="89">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="90">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="91">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="92">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="93">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="94">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="95">
+        <Index>2147483647</Index>
+      </Parameter>
+      <Parameter number="96">
+        <Index>2147483647</Index>
+      </Parameter>
+    </ProgramEditConfig>
+    <Is64Bits>1</Is64Bits>
+    <Name>THE BANK</Name>
+    <DescriptiveName>THE BANK</DescriptiveName>
+    <FormatName>VST</FormatName>
+    <Category>Synth</Category>
+    <ManufacturerName>Akai Professional</ManufacturerName>
+    <FileOrID>C:\ProgramData\Akai\MPC\MPC Expansion Instruments\THE BANK_x64.dll</FileOrID>
+    <UID>1952607851</UID>
+    <IsInstrument>1</IsInstrument>
+    <NumInput>2</NumInput>
+    <NumOutput>2</NumOutput>
+    <Data>8078.CMlaKA....fQBMDZ....APmXtsF...P...P.6.............................................................................................................................................................................fGtG.....P....P....LyLfXUXrwVYiUGag4xb1gWRE4DUS...............G....vTYgQFHyXSRNMEUu....L....vA....LUVXjAxL1D.....A............v+C................A....LYzSSQB...f...................LP..............3O.........9CSF8zTj....H...................CD..............9C........f+vjQOMEI....B..................v.A.............f+.........3OLYzSSQB...f...................LP..............3O.........9SQFYDV0....D....f.....j..........O241O4G+X+fBWO5C...rO.rZm8LJb86C...3O............EYjQXED...P.....C.....C.........u26c+....7C...3O....83cEfzC...vOudTP+PgqG5C...............P......TjQFgUJ....A..........F..........WOp8C...vO...f+.qW85iJTgpO......PQFYDVgA...D....PA....PA........vppJ2O..........fMoIkOOmJo7....7C.....+pW897bpjxipppxO.....3xV17yyoRJO9j9j9...........9UuZ+7bpjxiiiiyOA.....PPRQ0Pl....H....fC....AIGcoMVcrEFco8lafDS.....+++++C....ve....LETVRIA.........F....3zax0VXrE....fTEcjSU.........PB....VUFaf.SKwHyMG....LkVNUjs....G....v.....akEFYeMiMekiMfDC...3Oi4sS8............B.......9C.....yamA+..............f+nrIa5C.....................p.eeDIaxlDDB....A....L....vA....................KB...D...............PF...vI.........................PSZR+S......7++++O...........fVO4TQn..........C....rUVXj80L17UN1.RLfA...vF.........+A........vPC8jSz....H....P.....B.............+O..........nV+CEP....f4syUAD.....A....7++++eQNYESVA...P....PdoaxM.....7lDCpC.....pUaCAwwsZ9C...3O...f+....9S.............................................................E4jULYE....A.........................zdT31C........f+....9C...3OA............................................................TjSVwjU....D....3+++8C.....X9JG.A.....WoADPZlYl9....9C...3O...f+D.............................................................SF8zTj....H..........hivi+nNa8DD..............9C........f+vjQOMEI....B...............+++mAA.............f+.........3OLYzSSQB...f..........vUZ.ADQPqQP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP.........................br2B.......bsS........YRI..................2iBG+D..........fA...LEQAQUP....A..........xdK.......PDq...F....B....zA....SkEFYfLUXsAGakM2KrUVXj80L17UN1.RLtbWX1A....vTZ4TQ1B...b.....C....rUVXj80L17EM3.RL...f+Ll2N0C...........H.......3O.....LucF7C..............9ixlroO.....................nB78QjrIaRPH....D....v.....G....................rH...P................Y....m..........................MoI8OA.....v+++++............Z8jSEgB.........L....vVYgQ1WyXyWzfCHw.C...vN.........7G.........CMzSNQC...f.....A....H.............7+..........fZ8OT.A....l2NWEP.....D....v+++++E4jULYE....A....4ktI2.....vaRLnN.....nVsMDDG2p4O...f+....9C...3OA............................................................TjSVwjU....D.........................P6QgaO.........9C...3O...f+D............................................................PQNYESVA...P....f+++2O.....f4qb.D.....bkFP.oYlY5C...3O...f+....9S.............................................................LYzSSQB...f..........HNBO9i5r0SP..............3O.........9CSF8zTj....H...............7++eFD..............9C........f+vjQOMEI....B..........WoADPDAsFAA.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A.........................8qM.......r79A.......7Vy..................bOJb7S...........C...vTDEDUAA...D..........0u1........QrB..X....H....PG....LUVXjAxTg0FbrU1buvVYgQ1WyXyWzfCHw3xcgYG.....SokSEYK...vA....L....vVYgQ1WyXyWxPCHw....9yXd6TO...........f.......f+.....v71YvO..............3OJaxl9.....................fJv2GQxlrIAg....P.....C....b....................vh....A...............jA...bB.........................zjlz+D......+++++C...........n0SNUDJ.........v.....akEFYeMiMeICMfDyA....i.........ve.........LzPO4DM....B....D....f.............v+C..........p0+PAD....Xd6bU.A....P.....+++++WjSVwjU....D....jW5lbC.....uIwf5.....fZ01PPbbql+....9C...3O...f+D............................................................PQNYESVA...P..........................sGEt8.........3O...f+....9S.............................................................E4jULYE....A....9++e+......luxAP.....vUZ.AjlYloO...f+....9C...3OA............................................................vjQOMEI....B.........f3H73OpyVOAA.............f+.........3OLYzSSQB...f...............v+++YP..............3O.........9CSF8zTj....H..........bkFP.QDzZDD..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................fcw.......v81D.......fBQB.................v8nvwOA..........F....SQTPTED...P..........D1EC.......DwJ..fA...f.....c....vTYgQFHSEVavwVYy8BakEFYeMiMeICMfDiK2Elc.....LkVNUjs....G....v.....akEFYeMiMeMiMfDC...3Oi4sS8............B.......9C.....yamA+..............f+nrIa5C.....................p.eeDIaxlDDB....A....L....vA....................KB...D...............PF...vI.........................PSZR+S......7++++O...........fVO4TQn..........C....rUVXj80L170L1.RLj....7B.........+A........vPC8jSz....H....P.....B.............+O..........nV+CEP....f4syUAD.....A....7++++eQNYESVA...P....PdoaxM.....7lDCpC.....pUaCAwwsZ9C...3O...f+....9S.............................................................E4jULYE....A.........................zdT31C........f+....9C...3OA............................................................TjSVwjU....D....3+++8C.....X9JG.A.....WoADPZlYl9....9C...3O...f+D.............................................................SF8zTj....H..........hivi+nNa8DD..............9C........f+vjQOMEI....B...............+++mAA.............f+.........3OLYzSSQB...f..........vUZ.ADQPqQP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP..........................IgC.......KbP.......v65M..................2iBG+D..........j....LEQAQUP....A.........PjDN.......PDq...F....B....zA....SkEFYfLUXsAGakM2KrUVXj80L170L1.RLtbWX1A....vTZ4TQ1B...b.....C....rUVXj80L17kMv.RL...f+Ll2N0C...........H.......3O.....LucF7C..............9ixlroO.....................nB78QjrIaRPH....D....v.....G....................rH...P................Y....m..........................MoI8OA.....v+++++............Z8jSEgB.........L....vVYgQ1WyXyW1.CHwvC...vQ.........7G.........CMzSNQC...f.....A....H.............7+..........fZ8OT.A....l2NWEP.....D....v+++++E4jULYE....A....4ktI2.....vaRLnN.....nVsMDDG2p4O...f+....9C...3OA............................................................TjSVwjU....D.........................P6QgaO.........9C...3O...f+D............................................................PQNYESVA...P....f+++2O.....f4qb.D.....bkFP.oYlY5C...3O...f+....9S.............................................................LYzSSQB...f..........HNBO9i5r0SP..............3O.........9CSF8zTj....H...............7++eFD..............9C........f+vjQOMEI....B..........WoADPDAsFAA.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A........................PayE.......ben........VzT..................bOJb7S..........vC...vTDEDUAA...D..........tMW........QrB..X....H....PG....LUVXjAxTg0FbrU1buvVYgQ1WyXyW1.CHw3xcgYG.....SokSEYK...vA....L....vVYgQ1WyXyW2HCHw....9yXd6TO...........f.......f+.....v71YvO..............3OJaxl9.....................fJv2GQxlrIAg....P.....C....b....................vh....A...............jA...bB.........................zjlz+D......+++++C...........n0SNUDJ.........v.....akEFYeMiMeciLfDCR....SA........ve.........LzPO4DM....B....D....f.............v+C..........p0+PAD....Xd6bU.A....P.....+++++WjSVwjU....D....jW5lbC.....uIwf5.....fZ01PPbbql+....9C...3O...f+D............................................................PQNYESVA...P..........................sGEt8.........3O...f+....9S.............................................................E4jULYE....A....9++e+......luxAP.....vUZ.AjlYloO...f+....9C...3OA............................................................vjQOMEI....B.........f3H73OpyVOAA.............f+.........3OLYzSSQB...f...............v+++YP..............3O.........9CSF8zTj....H..........bkFP.QDzZDD..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................Cm1.......PNvF.......35lB.................v8nvwOA..........R....SQTPTED...P..........PbZC.......DwJ..fA...f.....c....vTYgQFHSEVavwVYy8BakEFYeMiMeciLfDiK2Elc.....LkVNUjs....G....v.....akEFYeMiMegCMfDC...3Oi4sS8............B.......9C.....yamA+..............f+nrIa5C.....................p.eeDIaxlDDB....A....L....vA....................KB...D...............PF...vI.........................PSZR+S......7++++O...........fVO4TQn..........C....rUVXj80L17ENz.RLTA...7E.........+A........vPC8jSz....H....P.....B.............+O..........nV+CEP....f4syUAD.....A....7++++eQNYESVA...P....PdoaxM.....7lDCpC.....pUaCAwwsZ9C...3O...f+....9S.............................................................E4jULYE....A.........................zdT31C........f+....9C...3OA............................................................TjSVwjU....D....3+++8C.....X9JG.A.....WoADPZlYl9....9C...3O...f+D.............................................................SF8zTj....H..........hivi+nNa8DD..............9C........f+vjQOMEI....B...............+++mAA.............f+.........3OLYzSSQB...f..........vUZ.ADQPqQP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP.........................D7dC.......ZKW........yrJ..................2iBG+D..........TA...LEQAQUP....A.........fv6M.......PDq...F....B....zA....SkEFYfLUXsAGakM2KrUVXj80L17ENz.RLtbWX1A...............PE....</Data>
+    <ProgramNumber>84</ProgramNumber>
+    <AudioRoute>
+      <AudioRoute>2</AudioRoute>
+      <AudioRouteSubIndex>0</AudioRouteSubIndex>
+      <InsertsEnabled>True</InsertsEnabled>
+    </AudioRoute>
+    <Send1>0.000000</Send1>
+    <Send2>0.000000</Send2>
+    <Send3>0.000000</Send3>
+    <Send4>0.000000</Send4>
+    <Volume>0.707946</Volume>
+    <Mute>False</Mute>
+    <Pan>0.500000</Pan>
+    <Qlinks>
+      <Count>16</Count>
+      <Qlink number="1">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="2">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="3">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="4">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="5">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="6">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="7">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="8">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="9">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="10">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="11">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="12">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="13">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="14">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="15">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="16">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+    </Qlinks>
+  </Program>
+</MPCVObject>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MPCVObject>
+  <Version>
+    <File_Version>1.7</File_Version>
+    <Application>MPC-V</Application>
+    <Application_Version>1.8.2.27</Application_Version>
+    <Platform>Windows</Platform>
+  </Version>
+  <Program type="Plugin">
+    <Name>The Bank 002</Name>
+    <ProgramEditConfig>
+      <Count>96</Count>
+      <Parameter number="1">
+        <Index>0</Index>
+      </Parameter>
+      <Parameter number="2">
+        <Index>1</Index>
+      </Parameter>
+      <Parameter number="3">
+        <Index>2</Index>
+      </Parameter>
+      <Parameter number="4">
+        <Index>3</Index>
+      </Parameter>
+      <Parameter number="5">
+        <Index>4</Index>
+      </Parameter>
+      <Parameter number="6">
+        <Index>5</Index>
+      </Parameter>
+      <Parameter number="7">
+        <Index>6</Index>
+      </Parameter>
+      <Parameter number="8">
+        <Index>7</Index>
+      </Parameter>
+      <Parameter number="9">
+        <Index>8</Index>
+      </Parameter>
+      <Parameter number="10">
+        <Index>9</Index>
+      </Parameter>
+      <Parameter number="11">
+        <Index>10</Index>
+      </Parameter>
+      <Parameter number="12">
+        <Index>11</Index>
+      </Parameter>
+      <Parameter number="13">
+        <Index>12</Index>
+      </Parameter>
+      <Parameter number="14">
+        <Index>13</Index>
+      </Parameter>
+      <Parameter number="15">
+        <Index>14</Index>
+      </Parameter>
+      <Parameter number="16">
+        <Index>15</Index>
+      </Parameter>
+      <Parameter number="17">
+        <Index>16</Index>
+      </Parameter>
+      <Parameter number="18">
+        <Index>17</Index>
+      </Parameter>
+      <Parameter number="19">
+        <Index>18</Index>
+      </Parameter>
+      <Parameter number="20">
+        <Index>19</Index>
+      </Parameter>
+      <Parameter number="21">
+        <Index>20</Index>
+      </Parameter>
+      <Parameter number="22">
+        <Index>21</Index>
+      </Parameter>
+      <Parameter number="23">
+        <Index>22</Index>
+      </Parameter>
+      <Parameter number="24">
+        <Index>23</Index>
+      </Parameter>
+      <Parameter number="25">
+        <Index>24</Index>
+      </Parameter>
+      <Parameter number="26">
+        <Index>25</Index>
+      </Parameter>
+      <Parameter number="27">
+        <Index>26</Index>
+      </Parameter>
+      <Parameter number="28">
+        <Index>27</Index>
+      </Parameter>
+      <Parameter number="29">
+        <Index>28</Index>
+      </Parameter>
+      <Parameter number="30">
+        <Index>29</Index>
+      </Parameter>
+      <Parameter number="31">
+        <Index>30</Index>
+      </Parameter>
+      <Parameter number="32">
+        <Index>31</Index>
+      </Parameter>
+      <Parameter number="33">
+        <Index>32</Index>
+      </Parameter>
+      <Parameter number="34">
+        <Index>33</Index>
+      </Parameter>
+      <Parameter number="35">
+        <Index>34</Index>
+      </Parameter>
+      <Parameter number="36">
+        <Index>35</Index>
+      </Parameter>
+      <Parameter number="37">
+        <Index>36</Index>
+      </Parameter>
+      <Parameter number="38">
+        <Index>37</Index>
+      </Parameter>
+      <Parameter number="39">
+        <Index>38</Index>
+      </Parameter>
+      <Parameter number="40">
+        <Index>39</Index>
+      </Parameter>
+      <Parameter number="41">
+        <Index>40</Index>
+      </Parameter>
+      <Parameter number="42">
+        <Index>41</Index>
+      </Parameter>
+      <Parameter number="43">
+        <Index>42</Index>
+      </Parameter>
+      <Parameter number="44">
+        <Index>43</Index>
+      </Parameter>
+      <Parameter number="45">
+        <Index>44</Index>
+      </Parameter>
+      <Parameter number="46">
+        <Index>45</Index>
+      </Parameter>
+      <Parameter number="47">
+        <Index>46</Index>
+      </Parameter>
+      <Parameter number="48">
+        <Index>47</Index>
+      </Parameter>
+      <Parameter number="49">
+        <Index>48</Index>
+      </Parameter>
+      <Parameter number="50">
+        <Index>49</Index>
+      </Parameter>
+      <Parameter number="51">
+        <Index>50</Index>
+      </Parameter>
+      <Parameter number="52">
+        <Index>51</Index>
+      </Parameter>
+      <Parameter number="53">
+        <Index>52</Index>
+      </Parameter>
+      <Parameter number="54">
+        <Index>53</Index>
+      </Parameter>
+      <Parameter number="55">
+        <Index>54</Index>
+      </Parameter>
+      <Parameter number="56">
+        <Index>55</Index>
+      </Parameter>
+      <Parameter number="57">
+        <Index>56</Index>
+      </Parameter>
+      <Parameter number="58">
+        <Index>57</Index>
+      </Parameter>
+      <Parameter number="59">
+        <Index>58</Index>
+      </Parameter>
+      <Parameter number="60">
+        <Index>59</Index>
+      </Parameter>
+      <Parameter number="61">
+        <Index>60</Index>
+      </Parameter>
+      <Parameter number="62">
+        <Index>61</Index>
+      </Parameter>
+      <Parameter number="63">
+        <Index>62</Index>
+      </Parameter>
+      <Parameter number="64">
+        <Index>63</Index>
+      </Parameter>
+      <Parameter number="65">
+        <Index>64</Index>
+      </Parameter>
+      <Parameter number="66">
+        <Index>65</Index>
+      </Parameter>
+      <Parameter number="67">
+        <Index>66</Index>
+      </Parameter>
+      <Parameter number="68">
+        <Index>67</Index>
+      </Parameter>
+      <Parameter number="69">
+        <Index>68</Index>
+      </Parameter>
+      <Parameter number="70">
+        <Index>69</Index>
+      </Parameter>
+      <Parameter number="71">
+        <Index>70</Index>
+      </Parameter>
+      <Parameter number="72">
+        <Index>71</Index>
+      </Parameter>
+      <Parameter number="73">
+        <Index>72</Index>
+      </Parameter>
+      <Parameter number="74">
+        <Index>73</Index>
+      </Parameter>
+      <Parameter number="75">
+        <Index>74</Index>
+      </Parameter>
+      <Parameter number="76">
+        <Index>75</Index>
+      </Parameter>
+      <Parameter number="77">
+        <Index>76</Index>
+      </Parameter>
+      <Parameter number="78">
+        <Index>77</Index>
+      </Parameter>
+      <Parameter number="79">
+        <Index>78</Index>
+      </Parameter>
+      <Parameter number="80">
+        <Index>79</Index>
+      </Parameter>
+      <Parameter number="81">
+        <Index>80</Index>
+      </Parameter>
+      <Parameter number="82">
+        <Index>81</Index>
+      </Parameter>
+      <Parameter number="83">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="84">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="85">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="86">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="87">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="88">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="89">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="90">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="91">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="92">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="93">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="94">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="95">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="96">
+        <Index>-1</Index>
+      </Parameter>
+    </ProgramEditConfig>
+    <Is64Bits>1</Is64Bits>
+    <Name>THE BANK</Name>
+    <DescriptiveName>THE BANK</DescriptiveName>
+    <FormatName>VST</FormatName>
+    <Category>Synth</Category>
+    <ManufacturerName>Akai Professional</ManufacturerName>
+    <FileOrID>C:\ProgramData\Akai\MPC\MPC Expansion Instruments\THE BANK_x64.dll</FileOrID>
+    <UID>1952607851</UID>
+    <IsInstrument>1</IsInstrument>
+    <NumInput>2</NumInput>
+    <NumOutput>2</NumOutput>
+    <Data>21039.CMlaKA....fQBMDZ....APmXtsF...P...P.6.............................................................................................................................................................................PTOF.....P....P.....SMfLUXzUFarkFck4xb1gWRE4DUW...............K....bjbo0VY4AhPgM2bI4zTTMC...v.....K....bjbo0VY4AhPgM2bB....P.............7+................P.....SF8zTj....H...................CD..............9C........f+vjQOMEI....B..................v.A.............f+.........3OLYzSSQB...f...................LP..............3O.........9CSF8zTj....H...................CD..............9C........f+TjQFgUM....A....H.....I............H8yppp0Oov0K+T35Q5CZJBbOB...9....9C...........PQFYDVAA...D....v.....v.........vB6i2Ov5UO+....9C...PO.oAv7HEt97C...3OVOJr9................D......EYjQXkB...P..........fA.........lYlY+....9C...3OnzjF9fCbf6C......TjQFgUX....A....T.....T.........rppx8C........f+XtJ+3CQrgiO...f+.....fdjupOnycc9PgqG6C.....BmAG+7bpjxydddtO.........9iDN7zOOmJo731115S......DjTTMjI....B....3....PPxQWZiUGagQWZu4FHwD....v+++++.....7G....SAkkTR.........fA....N8lbsEFaA....HUQG4TE.........j....fUkwFHvzRLxbiB....SokSEQK...vA....J.....CL4HCHsk1XfPF...3OnYlY9............B........................fIMooOlNcZ9XlYl8C.....................r39qCA..fFTB....A....L....vA....................7++++G.....................+++++......................G3.+C......7++++O...........fVO4TQl.........fB....v.SNx.RaoMFHjw....PD.........7G.........CMzSNQC...f.....A....H.............7+..........3xVVT.A....bRS1EP..........v+++++E4jULYE....A....862O+................f73w4C5N2AP...f+....9C...3OA................................................H...........TjSVwjU....D........................................9C...3O...f+D................................................f...........PQNYESVA...P..........................hEK1+.........3O...f+....9S.................................................B...........LYzSSQB...f.....LyLy8......a+RBP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B...............MyLy8..............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A........................v1Kc..................ZuzA.................3yct6C..........v....vTDEDUFA...D..........buzA.......f6B..X....H....fH....GIWZsUVdfHTXyMGHSEVavwVYy8BLvjiLfzVZiABYtbWX1A....vTZ4TQzB...b....fB....v.SNy.RaoMFHjA...9CZlYlO...........f.........................XRSZ5ioSmlOlYlY+......................Kt+5P...nAk....P.....C....b.....................+++++A....................v++++O.....................vANv+.......+++++C...........n0SNUjI.........n.....LvjyLfzVZiABYR....bA.........+A........vPC8jSz....H....P.....B.............+O..........trkEEP.....mzjcAD..........7++++eQNYESVA...P....P+98yO................HOdb9ftyc.D...3O...f+....9S.................................................B...........E4jULYE....A.......................................f+....9C...3OA................................................H...........TjSVwjU....D.........................fXwh8O.........9C...3O...f+D................................................f............SF8zTj....H.....yLybO.....v1uj.D..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...............PyLybO..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP.........................nISG.................PlLc..................9bm69...........R....LEQAQkQ....A.........vlLc........3t...F....B....HB...vQxkVakkGHBE1byAxTg0FbrU1bu.CL4LCHsk1XfPlK2Elc.....LkVNUDs....G....n.....LvjCMfzVZiABY...f+flYl4C...........H.........................lzjl9X5zo4iYlY1O.....................vh6uND...ZPI....D....v.....G....................v++++e.....................7++++C.....................bfC7O......v+++++............Z8jSEYB.........J.....CL4PCHsk1XfPFF....c.........ve.........LzPO4DM....B....D....f.............v+C.........fKaYQAD....vIMYW.A..........+++++WjSVwjU....D....zue+7C................xiGmOn6bG.A...9C...3O...f+D................................................f...........PQNYESVA...P........................................3O...f+....9S.................................................B...........E4jULYE....A.........................HVrX+C........f+....9C...3OA................................................H...........vjQOMEI....B....vLyL2C.....r8KI.A.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...............zLyL2C..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................ttzA.................z5RG.................fO24tO...........F....SQTPTYD...P..........75RG........tK..fA...f.....h....bjbo0VY4AhPgM2bfLUXsAGakM2Kv.SNz.RaoMFHj4xcgYG.....SokSEQK...vA....J.....CL4TCHsk1XfPF...3OnYlY9............B........................fIMooOlNcZ9XlYl8C.....................r39qCA..fFTB....A....L....vA....................7++++G.....................+++++......................G3.+C......7++++O...........fVO4TQl.........fB....v.SN0.RaoMFHj4A...vH.........7G.........CMzSNQC...f.....A....H.............7+..........3xVVT.A....bRS1EP..........v+++++E4jULYE....A....862O+................f73w4C5N2AP...f+....9C...3OA................................................H...........TjSVwjU....D........................................9C...3O...f+D................................................f...........PQNYESVA...P..........................hEK1+.........3O...f+....9S.................................................B...........LYzSSQB...f.....LyLy8......a+RBP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B...............MyLy8..............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A........................f2TW..................cScA.................3yct6C..........3A...vTDEDUFA...D..........eScA.......f6B..X....H....fH....GIWZsUVdfHTXyMGHSEVavwVYy8BLvjSMfzVZiABYtbWX1A....vTZ4TQzB...b....fB....v.SN1.RaoMFHjA...9CZlYlO...........f.........................XRSZ5ioSmlOlYlY+......................Kt+5P...nAk....P.....C....b.....................+++++A....................v++++O.....................vANv+.......+++++C...........n0SNUjI.........n.....LvjiMfzVZiABYj....jB.........+A........vPC8jSz....H....P.....B.............+O..........trkEEP.....mzjcAD..........7++++eQNYESVA...P....P+98yO................HOdb9ftyc.D...3O...f+....9S.................................................B.....f.....E4jULYE....A.......................................f+....9C...3OA................................................H......B....TjSVwjU....D.........................fXwh8O.........9C...3O...f+D................................................f......H.....SF8zTj....H.....yLybO.....v1uj.D..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...............PyLybO..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP..........................K0E.................vqTW..................9bm69...........j....LEQAQkQ....A.........PrTW........3t...F....B....HB...vQxkVakkGHBE1byAxTg0FbrU1bu.CL4XCHsk1XfPlK2Elc.....LkVNUDs....G....n.....LvjyMfzVZiABY...f+flYl4C...........H.........................lzjl9X5zo4iYlY1O.....................vh6uND...ZPI....D....v.....G....................v++++e.....................7++++C.....................bfC7O......v+++++............Z8jSEYB.........J.....CL4bCHsk1XfPlJ....u.........ve.........LzPO4DM....B....D....f.............v+C.........fKaYQAD....vIMYW.A..........+++++WjSVwjU....D....zue+7C................xiGmOn6bG.A...9C...3O...f+D................................................f......H....PQNYESVA...P........................................3O...f+....9S.................................................B.....f.....E4jULYE....A.........................HVrX+C........f+....9C...3OA................................................H......B....vjQOMEI....B....vLyL2C.....r8KI.A.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...............zLyL2C..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................jszA.................L1RG.................fO24tO..........fJ....SQTPTYD...P..........T1RG........tK..fA...f.....h....bjbo0VY4AhPgM2bfLUXsAGakM2Kv.SN2.RaoMFHj4xcgYG.....SokSEQK...vA....J.....CL4fCHsk1XfPF...3OnYlY9............B........................fIMooOlNcZ9XlYl8C.....................r39qCA..fFTB....A....L....vA....................7++++G.....................+++++......................G3.+C......7++++O...........fVO4TQl.........fB....v.SN3.RaoMFHjAC...PM.........7G.........CMzSNQC...f.....A....H.............7+..........3xVVT.A....bRS1EP..........v+++++E4jULYE....A....862O+................f73w4C5N2AP...f+....9C...3OA................................................H......B....TjSVwjU....D........................................9C...3O...f+D................................................f......H....PQNYESVA...P..........................hEK1+.........3O...f+....9S.................................................B.....f.....LYzSSQB...f.....LyLy8......a+RBP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B...............MyLy8..............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A........................fyKc..................MuzA.................3yct6C...........C...vTDEDUFA...D..........OuzA.......f6B..X....H....fH....GIWZsUVdfHTXyMGHSEVavwVYy8BLvjCNfzVZiABYtbWX1A....vTZ4TQzB...b....fB....v.SN4.RaoMFHjA...9CZlYlO...........f.........................XRSZ5ioSmlOlYlY+......................Kt+5P...nAk....P.....C....b.....................+++++A....................v++++O.....................vANv+.......+++++C...........n0SNUjI.........n.....LvjSNfzVZiABY1....rC.........+A........vPC8jSz....H....P.....B.............+O..........trkEEP.....mzjcAD..........7++++eQNYESVA...P....P+98yO................HOdb9ftyc.D...3O...f+....9S.................................................B.....f.....E4jULYE....A.......................................f+....9C...3OA................................................H......B....TjSVwjU....D.........................fXwh8O.........9C...3O...f+D................................................f......H.....SF8zTj....H.....yLybO.....v1uj.D..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...............PyLybO..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP.........................LJ0E.................fnTW..................9bm69...........1....LEQAQkQ....A..........oTW........3t...F....B....HB...vQxkVakkGHBE1byAxTg0FbrU1bu.CL4jCHsk1XfPlK2Elc.....LkVNUDs....G....n.....Lw.CLfzVZiABY...f+flYl4C...........H.........................lzjl9X5zo4iYlY1O.....................vh6uND...ZPI....D....v.....G....................v++++e.....................7++++C.....................bfC7O......v+++++............Z8jSEYB.........J.....SLv.CHsk1XfPFO....AA........ve.........LzPO4DM....B....D....f.............v+C.........fKaYQAD....vIMYW.A..........+++++WjSVwjU....D....zue+7C................xiGmOn6bG.A...9C...3O...f+D................................................f......H....PQNYESVA...P........................................3O...f+....9S.................................................B.....f.....E4jULYE....A.........................HVrX+C........f+....9C...3OA................................................H......B....vjQOMEI....B....vLyL2C.....r8KI.A.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...............zLyL2C..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD..........................szA.................7yRG.................fO24tO...........O....SQTPTYD...P..........DzRG........tK..fA...f.....h....bjbo0VY4AhPgM2bfLUXsAGakM2KvDCLv.RaoMFHj4xcgYG.....SokSEQK...vA....J.....SLvDCHsk1XfPF...3OnYlY9............B........................fIMooOlNcZ9XlYl8C.....................r39qCA..fFTB....A....L....vA....................7++++G.....................+++++......................G3.+C......7++++O...........fVO4TQl.........fB....vDCLw.RaoMFHjID...ve.........7G.........CMzSNQC...f.....A....H.............7+..........3xVVT.A....bRS1EP..........v+++++E4jULYE....A....862O+................f73w4C5N2AP...f+....9C...3OA................................................H......B....TjSVwjU....D........................................9C...3O...f+D................................................f......H....PQNYESVA...P..........................hEK1+.........3O...f+....9S.................................................B.....f.....LYzSSQB...f.....LyLy8......a+RBP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B...............MyLy8..............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A........................fhTW..................IRcA.................3yct6C..........HD...vTDEDUFA...D..........KRcA.......f6B..X....H....fH....GIWZsUVdfHTXyMGHSEVavwVYy8BLw.SLfzVZiABYtbWX1A....PPRQ0Po....H....PD....AIGcoMVcrEFco8lafDCH9ES.....+++++C....ve....LETVRIA.........F....3zax0VXrE....fTEcjSU.........PB....VUFaf.SKwHyMJ....LkVNUDs....G....n.....LvjiLfzVZiABY...f+flYl4C...........H.........................nzjF9PhDI3iYlY1O.....................DomDND...ZPI.........v.....G....................L....P.....................C..........................bfC7O......v+++++............Z8jSEYB.........J.....CL4HCHsk1XfPFC....Q.........ve.........TjSVwjU....D....PqVs7C................xiGmOxjlz+....9C...3O...f+D................................................f...........PQNYESVA...P........................................3O...f+....9S.................................................B...........E4jULYE....A.........................HVrX+C........f+....9C...3OA................................................H...........vjQOMEI....B....vLyL2C.....r8KI.A.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...............zLyL2C..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................auzA.................n8RG.................fO24tO...........C....SQTPTYD...P..........v8RG........tK..fA...f.....h....bjbo0VY4AhPgM2bfLUXsAGakM2Kv.SNx.RaoMFHj4xcgYG.....SokSEQK...vA....J.....CL4LCHsk1XfPF...3OnYlY9............B.........................JMogOjHQB9XlYl8C.....................Q5IgCA..fFTB.........L....vA....................C....D....................v...........................G3.+C......7++++O...........fVO4TQl.........fB....v.SNy.RaoMFHjIA...vE.........7G.........E4jULYE....A....zpUK+................f73w4iLoI8O...f+....9C...3OA................................................H...........TjSVwjU....D........................................9C...3O...f+D................................................f...........PQNYESVA...P..........................hEK1+.........3O...f+....9S.................................................B...........LYzSSQB...f.....LyLy8......a+RBP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B...............MyLy8..............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A........................flLc..................YxzA.................3yct6C..........HA...vTDEDUFA...D..........axzA.......f6B..X....H....fH....GIWZsUVdfHTXyMGHSEVavwVYy8BLvjyLfzVZiABYtbWX1A....vTZ4TQzB...b....fB....v.SNz.RaoMFHjA...9CZlYlO...........f.........................fRSZ3CIRjfOlYlY+.....................PjdR3P...nAk..........C....b....................v.....A....................L..........................vANv+.......+++++C...........n0SNUjI.........n.....LvjCMfzVZiABYX....zA.........+A........PQNYESVA...P.....sZ0xO................HOdb9HSZR+C...3O...f+....9S.................................................B...........E4jULYE....A.......................................f+....9C...3OA................................................H...........TjSVwjU....D.........................fXwh8O.........9C...3O...f+D................................................f............SF8zTj....H.....yLybO.....v1uj.D..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...............PyLybO..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP.........................35RG.................PqKc..................9bm69...........X....LEQAQkQ....A.........vqKc........3t...F....B....HB...vQxkVakkGHBE1byAxTg0FbrU1bu.CL4PCHsk1XfPlK2Elc.....LkVNUDs....G....n.....LvjSMfzVZiABY...f+flYl4C...........H.........................nzjF9PhDI3iYlY1O.....................DomDND...ZPI.........v.....G....................L....P.....................C..........................bfC7O......v+++++............Z8jSEYB.........J.....CL4TCHsk1XfPlG....i.........ve.........TjSVwjU....D....PqVs7C................xiGmOxjlz+....9C...3O...f+D................................................f...........PQNYESVA...P........................................3O...f+....9S.................................................B...........E4jULYE....A.........................HVrX+C........f+....9C...3OA................................................H...........vjQOMEI....B....vLyL2C.....r8KI.A.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...............zLyL2C..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................dScA.................zM0E.................fO24tO..........fG....SQTPTYD...P..........7M0E........tK..fA...f.....h....bjbo0VY4AhPgM2bfLUXsAGakM2Kv.SN0.RaoMFHj4xcgYG.....SokSEQK...vA....J.....CL4XCHsk1XfPF...3OnYlY9............B.........................JMogOjHQB9XlYl8C.....................Q5IgCA..fFTB.........L....vA....................C....D....................v...........................G3.+C......7++++O...........fVO4TQl.........fB....v.SN1.RaoMFHjQB...PJ.........7G.........E4jULYE....A....zpUK+................f73w4iLoI8O...f+....9C...3OA................................................H......B....TjSVwjU....D........................................9C...3O...f+D................................................f......H....PQNYESVA...P..........................hEK1+.........3O...f+....9S.................................................B.....f.....LYzSSQB...f.....LyLy8......a+RBP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B...............MyLy8..............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A.........................rTW..................uRcA.................3yct6C..........PB...vTDEDUFA...D..........wRcA.......f6B..X....H....fH....GIWZsUVdfHTXyMGHSEVavwVYy8BLvjiMfzVZiABYtbWX1A....vTZ4TQzB...b....fB....v.SN2.RaoMFHjA...9CZlYlO...........f.........................fRSZ3CIRjfOlYlY+.....................PjdR3P...nAk..........C....b....................v.....A....................L..........................vANv+.......+++++C...........n0SNUjI.........n.....LvjyMfzVZiABYp....7B.........+A........PQNYESVA...P.....sZ0xO................HOdb9HSZR+C...3O...f+....9S.................................................B.....f.....E4jULYE....A.......................................f+....9C...3OA................................................H......B....TjSVwjU....D.........................fXwh8O.........9C...3O...f+D................................................f......H.....SF8zTj....H.....yLybO.....v1uj.D..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...............PyLybO..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP.........................P1RG.................vXKc..................9bm69...........p....LEQAQkQ....A.........PYKc........3t...F....B....HB...vQxkVakkGHBE1byAxTg0FbrU1bu.CL4bCHsk1XfPlK2Elc.....LkVNUDs....G....n.....LvjCNfzVZiABY...f+flYl4C...........H.........................nzjF9PhDI3iYlY1O.....................DomDND...ZPI.........v.....G....................L....P.....................C..........................bfC7O......v+++++............Z8jSEYB.........J.....CL4fCHsk1XfPFL....0.........ve.........TjSVwjU....D....PqVs7C................xiGmOxjlz+....9C...3O...f+D................................................f......H....PQNYESVA...P........................................3O...f+....9S.................................................B.....f.....E4jULYE....A.........................HVrX+C........f+....9C...3OA................................................H......B....vjQOMEI....B....vLyL2C.....r8KI.A.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...............zLyL2C..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................NuzA.................z7RG.................fO24tO...........L....SQTPTYD...P..........77RG........tK..fA...f.....h....bjbo0VY4AhPgM2bfLUXsAGakM2Kv.SN3.RaoMFHj4xcgYG.....SokSEQK...vA....J.....CL4jCHsk1XfPF...3OnYlY9............B.........................JMogOjHQB9XlYl8C.....................Q5IgCA..fFTB.........L....vA....................C....D....................v...........................G3.+C......7++++O...........fVO4TQl.........fB....v.SN4.RaoMFHjYC...vN.........7G.........E4jULYE....A....zpUK+................f73w4iLoI8O...f+....9C...3OA................................................H......B....TjSVwjU....D........................................9C...3O...f+D................................................f......H....PQNYESVA...P..........................hEK1+.........3O...f+....9S.................................................B.....f.....LYzSSQB...f.....LyLy8......a+RBP..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B...............MyLy8..............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9yTA0DT.A........................vnTW..................hRcA.................3yct6C..........XC...vTDEDUFA...D..........jRcA.......f6B..X....H....fH....GIWZsUVdfHTXyMGHSEVavwVYy8BLvjSNfzVZiABYtbWX1A....vTZ4TQzB...b....fB....vDCLv.RaoMFHjA...9CZlYlO...........f.........................fRSZ3CIRjfOlYlY+.....................PjdR3P...nAk..........C....b....................v.....A....................L..........................vANv+.......+++++C...........n0SNUjI.........n.....Lw.CLfzVZiABY7....DD.........+A........PQNYESVA...P.....sZ0xO................HOdb9HSZR+C...3O...f+....9S.................................................B.....f.....E4jULYE....A.......................................f+....9C...3OA................................................H......B....TjSVwjU....D.........................fXwh8O.........9C...3O...f+D................................................f......H.....SF8zTj....H.....yLybO.....v1uj.D..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...............PyLybO..............3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP..........................zRG.................vOKc..................9bm69...........7....LEQAQkQ....A.........PPKc........3t...F....B....HB...vQxkVakkGHBE1byAxTg0FbrU1bu.SLv.CHsk1XfPlK2Elc.....LkVNUDs....G....n.....Lw.SLfzVZiABY...f+flYl4C...........H.........................nzjF9PhDI3iYlY1O.....................DomDND...ZPI.........v.....G....................L....P.....................C..........................bfC7O......v+++++............Z8jSEYB.........J.....SLvDCHsk1XfPlP....+A........ve.........TjSVwjU....D....PqVs7C................xiGmOxjlz+....9C...3O...f+D................................................f......H....PQNYESVA...P........................................3O...f+....9S.................................................B.....f.....E4jULYE....A.........................HVrX+C........f+....9C...3OA................................................H......B....vjQOMEI....B....vLyL2C.....r8KI.A.............f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...............zLyL2C..............9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OSETSPAD.........................JRcA.................jH0E.................fO24tO..........fP....SQTPTYD...P..........rH0E........tK..fA...f.....h....bjbo0VY4AhPgM2bfLUXsAGakM2KvDCLw.RaoMFHj4xcgYG...............PZ....</Data>
+    <ProgramNumber>105</ProgramNumber>
+    <AudioRoute>
+      <AudioRoute>2</AudioRoute>
+      <AudioRouteSubIndex>0</AudioRouteSubIndex>
+      <InsertsEnabled>True</InsertsEnabled>
+    </AudioRoute>
+    <Send1>0.000000</Send1>
+    <Send2>0.000000</Send2>
+    <Send3>0.000000</Send3>
+    <Send4>0.000000</Send4>
+    <Volume>0.707946</Volume>
+    <Mute>False</Mute>
+    <Pan>0.500000</Pan>
+    <Qlinks>
+      <Count>16</Count>
+      <Qlink number="1">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="2">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="3">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="4">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="5">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="6">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="7">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="8">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="9">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="10">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="11">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="12">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="13">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="14">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="15">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="16">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+    </Qlinks>
+  </Program>
+</MPCVObject>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Project>
+  <Version>
+    <File_Version>1.7</File_Version>
+    <Application>MPC-V</Application>
+    <Application_Version>1.8.2.27</Application_Version>
+    <Platform>Windows</Platform>
+  </Version>
+  <ProductCode>1299211094</ProductCode>
+  <BPM>120.000000</BPM>
+  <MasterVolume>0.707946</MasterVolume>
+  <FileList>
+    <File>.\stramgy_[ProjectData]\All Sequences &amp; Songs.xal</File>
+    <File>.\stramgy_[ProjectData]\intro.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-10.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-11.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-12.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-13.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-14.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-15.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-2.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-3.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-4.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-5.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-6.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-7.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-8.WAV</File>
+    <File>.\stramgy_[ProjectData]\wholefatback-9.WAV</File>
+    <File>.\stramgy_[ProjectData]\Program 001.xpm</File>
+    <File>.\stramgy_[ProjectData]\fatbackdrums.xpm</File>
+    <File>.\stramgy_[ProjectData]\The Bank 001.xpm</File>
+    <File>.\stramgy_[ProjectData]\The Bank 001-1.xpm</File>
+    <File>.\stramgy_[ProjectData]\The Bank 001-2.xpm</File>
+    <File>.\stramgy_[ProjectData]\Midi Controller.mcn</File>
+  </FileList>
+  <FxQLinks>
+    <FxQlink number="1">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="2">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="3">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="4">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="5">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="6">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="7">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="8">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="9">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="10">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="11">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="12">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="13">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="14">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="15">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="16">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+  </FxQLinks>
+  <SubMixLevel>
+    <0>1.000000</0>
+    <1>1.000000</1>
+    <2>1.000000</2>
+    <3>1.000000</3>
+    <4>1.000000</4>
+    <5>1.000000</5>
+    <6>1.000000</6>
+    <7>1.000000</7>
+  </SubMixLevel>
+  <SendFxReturnLevel>
+    <0>1.000000</0>
+    <1>1.000000</1>
+    <2>1.000000</2>
+    <3>1.000000</3>
+  </SendFxReturnLevel>
+  <EmulationType type="NONE"/>
+  <MasterTempo.Enabled>0</MasterTempo.Enabled>
+  <MasterTempo.Value>120.000000</MasterTempo.Value>
+</Project>

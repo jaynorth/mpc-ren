@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MPCVObject>
+  <Version>
+    <File_Version>1.7</File_Version>
+    <Application>MPC-V</Application>
+    <Application_Version>1.8.2.27</Application_Version>
+    <Platform>Windows</Platform>
+  </Version>
+  <Program type="Plugin">
+    <Name>The Bank 003</Name>
+    <ProgramEditConfig>
+      <Count>96</Count>
+      <Parameter number="1">
+        <Index>0</Index>
+      </Parameter>
+      <Parameter number="2">
+        <Index>1</Index>
+      </Parameter>
+      <Parameter number="3">
+        <Index>2</Index>
+      </Parameter>
+      <Parameter number="4">
+        <Index>3</Index>
+      </Parameter>
+      <Parameter number="5">
+        <Index>4</Index>
+      </Parameter>
+      <Parameter number="6">
+        <Index>5</Index>
+      </Parameter>
+      <Parameter number="7">
+        <Index>6</Index>
+      </Parameter>
+      <Parameter number="8">
+        <Index>7</Index>
+      </Parameter>
+      <Parameter number="9">
+        <Index>8</Index>
+      </Parameter>
+      <Parameter number="10">
+        <Index>9</Index>
+      </Parameter>
+      <Parameter number="11">
+        <Index>10</Index>
+      </Parameter>
+      <Parameter number="12">
+        <Index>11</Index>
+      </Parameter>
+      <Parameter number="13">
+        <Index>12</Index>
+      </Parameter>
+      <Parameter number="14">
+        <Index>13</Index>
+      </Parameter>
+      <Parameter number="15">
+        <Index>14</Index>
+      </Parameter>
+      <Parameter number="16">
+        <Index>15</Index>
+      </Parameter>
+      <Parameter number="17">
+        <Index>16</Index>
+      </Parameter>
+      <Parameter number="18">
+        <Index>17</Index>
+      </Parameter>
+      <Parameter number="19">
+        <Index>18</Index>
+      </Parameter>
+      <Parameter number="20">
+        <Index>19</Index>
+      </Parameter>
+      <Parameter number="21">
+        <Index>20</Index>
+      </Parameter>
+      <Parameter number="22">
+        <Index>21</Index>
+      </Parameter>
+      <Parameter number="23">
+        <Index>22</Index>
+      </Parameter>
+      <Parameter number="24">
+        <Index>23</Index>
+      </Parameter>
+      <Parameter number="25">
+        <Index>24</Index>
+      </Parameter>
+      <Parameter number="26">
+        <Index>25</Index>
+      </Parameter>
+      <Parameter number="27">
+        <Index>26</Index>
+      </Parameter>
+      <Parameter number="28">
+        <Index>27</Index>
+      </Parameter>
+      <Parameter number="29">
+        <Index>28</Index>
+      </Parameter>
+      <Parameter number="30">
+        <Index>29</Index>
+      </Parameter>
+      <Parameter number="31">
+        <Index>30</Index>
+      </Parameter>
+      <Parameter number="32">
+        <Index>31</Index>
+      </Parameter>
+      <Parameter number="33">
+        <Index>32</Index>
+      </Parameter>
+      <Parameter number="34">
+        <Index>33</Index>
+      </Parameter>
+      <Parameter number="35">
+        <Index>34</Index>
+      </Parameter>
+      <Parameter number="36">
+        <Index>35</Index>
+      </Parameter>
+      <Parameter number="37">
+        <Index>36</Index>
+      </Parameter>
+      <Parameter number="38">
+        <Index>37</Index>
+      </Parameter>
+      <Parameter number="39">
+        <Index>38</Index>
+      </Parameter>
+      <Parameter number="40">
+        <Index>39</Index>
+      </Parameter>
+      <Parameter number="41">
+        <Index>40</Index>
+      </Parameter>
+      <Parameter number="42">
+        <Index>41</Index>
+      </Parameter>
+      <Parameter number="43">
+        <Index>42</Index>
+      </Parameter>
+      <Parameter number="44">
+        <Index>43</Index>
+      </Parameter>
+      <Parameter number="45">
+        <Index>44</Index>
+      </Parameter>
+      <Parameter number="46">
+        <Index>45</Index>
+      </Parameter>
+      <Parameter number="47">
+        <Index>46</Index>
+      </Parameter>
+      <Parameter number="48">
+        <Index>47</Index>
+      </Parameter>
+      <Parameter number="49">
+        <Index>48</Index>
+      </Parameter>
+      <Parameter number="50">
+        <Index>49</Index>
+      </Parameter>
+      <Parameter number="51">
+        <Index>50</Index>
+      </Parameter>
+      <Parameter number="52">
+        <Index>51</Index>
+      </Parameter>
+      <Parameter number="53">
+        <Index>52</Index>
+      </Parameter>
+      <Parameter number="54">
+        <Index>53</Index>
+      </Parameter>
+      <Parameter number="55">
+        <Index>54</Index>
+      </Parameter>
+      <Parameter number="56">
+        <Index>55</Index>
+      </Parameter>
+      <Parameter number="57">
+        <Index>56</Index>
+      </Parameter>
+      <Parameter number="58">
+        <Index>57</Index>
+      </Parameter>
+      <Parameter number="59">
+        <Index>58</Index>
+      </Parameter>
+      <Parameter number="60">
+        <Index>59</Index>
+      </Parameter>
+      <Parameter number="61">
+        <Index>60</Index>
+      </Parameter>
+      <Parameter number="62">
+        <Index>61</Index>
+      </Parameter>
+      <Parameter number="63">
+        <Index>62</Index>
+      </Parameter>
+      <Parameter number="64">
+        <Index>63</Index>
+      </Parameter>
+      <Parameter number="65">
+        <Index>64</Index>
+      </Parameter>
+      <Parameter number="66">
+        <Index>65</Index>
+      </Parameter>
+      <Parameter number="67">
+        <Index>66</Index>
+      </Parameter>
+      <Parameter number="68">
+        <Index>67</Index>
+      </Parameter>
+      <Parameter number="69">
+        <Index>68</Index>
+      </Parameter>
+      <Parameter number="70">
+        <Index>69</Index>
+      </Parameter>
+      <Parameter number="71">
+        <Index>70</Index>
+      </Parameter>
+      <Parameter number="72">
+        <Index>71</Index>
+      </Parameter>
+      <Parameter number="73">
+        <Index>72</Index>
+      </Parameter>
+      <Parameter number="74">
+        <Index>73</Index>
+      </Parameter>
+      <Parameter number="75">
+        <Index>74</Index>
+      </Parameter>
+      <Parameter number="76">
+        <Index>75</Index>
+      </Parameter>
+      <Parameter number="77">
+        <Index>76</Index>
+      </Parameter>
+      <Parameter number="78">
+        <Index>77</Index>
+      </Parameter>
+      <Parameter number="79">
+        <Index>78</Index>
+      </Parameter>
+      <Parameter number="80">
+        <Index>79</Index>
+      </Parameter>
+      <Parameter number="81">
+        <Index>80</Index>
+      </Parameter>
+      <Parameter number="82">
+        <Index>81</Index>
+      </Parameter>
+      <Parameter number="83">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="84">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="85">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="86">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="87">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="88">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="89">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="90">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="91">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="92">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="93">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="94">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="95">
+        <Index>-1</Index>
+      </Parameter>
+      <Parameter number="96">
+        <Index>-1</Index>
+      </Parameter>
+    </ProgramEditConfig>
+    <Is64Bits>1</Is64Bits>
+    <Name>THE BANK</Name>
+    <DescriptiveName>THE BANK</DescriptiveName>
+    <FormatName>VST</FormatName>
+    <Category>Synth</Category>
+    <ManufacturerName>Akai Professional</ManufacturerName>
+    <FileOrID>C:\ProgramData\Akai\MPC\MPC Expansion Instruments\THE BANK_x64.dll</FileOrID>
+    <UID>1952607851</UID>
+    <IsInstrument>1</IsInstrument>
+    <NumInput>2</NumInput>
+    <NumOutput>2</NumOutput>
+    <Data>1859.CMlaKA....fQBMDZ....APmXtsF...P...P.6.............................................................................................................................................................................fAiF.....P....P.....iLfTSM0.hPxE1by4xb1gWRE4DUV...............J....TSM0.xPnkFbfTSRNMEUx....L....fB....0TSMfLDZoAGH0D.....A............v+C................A....LYzSSQB...f...................LP..............3O.........9CSF8zTj....H...................CD..............9C........f+vjQOMEI....B..................v.A.............f+.........3OLYzSSQB...f...................LP..............3O.........9SQFYDV0....D....f.....j.........vtyc1Ooi+Y+XIRE6CVa5gOfT8h8n1LG7C...3O.....D......EYjQXED...P.....C.....C.........7ieb+fBUn1C...3OkkZ27TQ2H0i4+roO...f+XDrW5C...3Okjjj9baaa6S......TjQFgUJ....A..........F.........LYCs8C3BQ2O...f+vBUn3iJTgxO......PQFYDVgA...D....PA....PA............2O.........9SnYhgOjcuE9....7C.....ZzAv9.UU80CR0KxO.....3tKu7Cs6xiO06TC+.........3O...f+7bpjxC...vOA.....PPRQ0Pl....H....fC....AIGcoMVcrEFco8lafDS.....+++++C....ve....LETVRIA.........F....3zax0VXrE....fTEcjSU.........PB....VUFaf.SKwHyMA....LkVNUzu....G....TA...vXoI2X0kFcfHVYtQFH0TSMeEyHvTC...3O.................B..............................1YaL+...........................zVTeEYVvl9SB.........L....vA....................T++++G.....................0++++.....................H+3G+S......7++++O......v5UuFjVO4TQw.........PE....iklbiUWZzAhXk4FYfTSM07ULi.SM.....7G.........+A........PQNYESVA...P........3O....................+.HbtzC...3O...f+....9S.............................................................E4jULYE....A.......................................f+....9C...3OA............................................................TjSVwjU....D....P24N8C.....f.wh8......Pz+iO.....A...9C...3O...f+D.............................................................SF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+vjQOMEI....B..................................f+.........3OLYzSSQB...f...................................3O.........9CSF8zTj....H...................................9C........f+LUPMAEP.........................vQJ........PeA.......vfX...................+++++D..........7....LEQAQET....A.........PGo.........3t...F....A....vB...PM0TCHCgVZvARLfLUXsAGakM2KiklbiUWZzAhXk4FYfTSM07ULi.SMtbWX1A...............DI....</Data>
+    <ProgramNumber>145</ProgramNumber>
+    <AudioRoute>
+      <AudioRoute>2</AudioRoute>
+      <AudioRouteSubIndex>0</AudioRouteSubIndex>
+      <InsertsEnabled>True</InsertsEnabled>
+    </AudioRoute>
+    <Insert1>
+      <Is64Bits>1</Is64Bits>
+      <Name>Chorus 4-voice</Name>
+      <DescriptiveName>Chorus 4-voice</DescriptiveName>
+      <FormatName>VST</FormatName>
+      <Category>Effect</Category>
+      <ManufacturerName>Akai Professional</ManufacturerName>
+      <FileOrID>C:\Program Files\Akai Pro\MPC\Fx\Chorus1.dll</FileOrID>
+      <UID>1094932082</UID>
+      <IsInstrument>0</IsInstrument>
+      <NumInput>2</NumInput>
+      <NumOutput>2</NumOutput>
+      <Data>228.CMlaKA....fQBMDZ....ADzPVIG...P.....................................................................................................................................................................................DA........3O................Jb8n9................jBWO7SgqG0O..............3OT35Q+...........</Data>
+      <ProgramNumber>0</ProgramNumber>
+    </Insert1>
+    <Insert2>
+      <Is64Bits>1</Is64Bits>
+      <Name>Autopan</Name>
+      <DescriptiveName>Autopan</DescriptiveName>
+      <FormatName>VST</FormatName>
+      <Category>Effect</Category>
+      <ManufacturerName>Akai Professional</ManufacturerName>
+      <FileOrID>C:\Program Files\Akai Pro\MPC\Fx\Autopan.dll</FileOrID>
+      <UID>1094932081</UID>
+      <IsInstrument>0</IsInstrument>
+      <NumInput>2</NumInput>
+      <NumOutput>2</NumOutput>
+      <Data>228.CMlaKA....fQBMDZ....ADzPVEG...P.....................................................................................................................................................................................DA...............................................PJb87C...............fBWOhO................</Data>
+      <ProgramNumber>0</ProgramNumber>
+    </Insert2>
+    <Insert3>
+      <Is64Bits>1</Is64Bits>
+      <Name>Flanger</Name>
+      <DescriptiveName>Flanger</DescriptiveName>
+      <FormatName>VST</FormatName>
+      <Category>Effect</Category>
+      <ManufacturerName>Akai Professional</ManufacturerName>
+      <FileOrID>C:\Program Files\Akai Pro\MPC\Fx\Flanger1.dll</FileOrID>
+      <UID>1094932084</UID>
+      <IsInstrument>0</IsInstrument>
+      <NumInput>2</NumInput>
+      <NumOutput>2</NumOutput>
+      <Data>228.CMlaKA....fQBMDZ....ADzPVQG...P.....................................................................................................................................................................................DA.....tdTvO................CWOJ+................PgqG8C...............vdT3xOeT3Z+...........</Data>
+      <ProgramNumber>0</ProgramNumber>
+    </Insert3>
+    <Send1>0.000000</Send1>
+    <Send2>0.000000</Send2>
+    <Send3>0.000000</Send3>
+    <Send4>0.000000</Send4>
+    <Volume>0.185724</Volume>
+    <Mute>False</Mute>
+    <Pan>0.500000</Pan>
+    <Qlinks>
+      <Count>16</Count>
+      <Qlink number="1">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="2">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="3">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="4">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="5">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="6">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="7">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="8">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="9">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="10">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="11">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="12">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="13">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="14">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="15">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+      <Qlink number="16">
+        <Controller>-1</Controller>
+        <Min>0.000000</Min>
+        <Max>100.000000</Max>
+        <TouchToMax>True</TouchToMax>
+        <PadAssign>0</PadAssign>
+        <ChangeRealTime>True</ChangeRealTime>
+        <NoteOnValue>0.000000</NoteOnValue>
+      </Qlink>
+    </Qlinks>
+  </Program>
+</MPCVObject>
