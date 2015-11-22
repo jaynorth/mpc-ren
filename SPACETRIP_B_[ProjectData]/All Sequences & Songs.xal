@@ -46,6 +46,10 @@
         <Active>True</Active>
         <Name>Sequence 01</Name>
       </Sequence>
+      <Sequence number="10">
+        <Active>True</Active>
+        <Name>Sequence 01</Name>
+      </Sequence>
     </Sequences>
     <Master/>
     <Songs>
@@ -63,7 +67,8 @@
         <SeqIndex repeat="1">3</SeqIndex>
         <SeqIndex repeat="1">8</SeqIndex>
         <SeqIndex repeat="1">6</SeqIndex>
-        <SeqIndex repeat="1">7</SeqIndex>
+        <SeqIndex repeat="4">7</SeqIndex>
+        <SeqIndex repeat="4">9</SeqIndex>
       </Song>
       <Song number="2">
         <Name>(unnamed)</Name>
