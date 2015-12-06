@@ -162,7 +162,7 @@
     <Send2>0.000000</Send2>
     <Send3>0.000000</Send3>
     <Send4>0.000000</Send4>
-    <Volume>0.707946</Volume>
+    <Volume>0.219057</Volume>
     <Mute>False</Mute>
     <Pan>0.500000</Pan>
     <Pitch>0.000000</Pitch>
@@ -6278,7 +6278,7 @@
         <LfoCutoff>0.000000</LfoCutoff>
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
+        <OneShot>True</OneShot>
         <FilterType>0</FilterType>
         <Cutoff>1.000000</Cutoff>
         <Resonance>0.000000</Resonance>
@@ -6331,7 +6331,7 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>A2</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>128</SliceIndex>
             <Direction>0</Direction>
@@ -7067,7 +7067,7 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>A2</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>128</SliceIndex>
             <Direction>0</Direction>

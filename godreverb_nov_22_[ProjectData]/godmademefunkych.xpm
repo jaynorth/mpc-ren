@@ -162,7 +162,7 @@
     <Send2>0.000000</Send2>
     <Send3>0.000000</Send3>
     <Send4>0.000000</Send4>
-    <Volume>0.574612</Volume>
+    <Volume>0.488889</Volume>
     <Mute>False</Mute>
     <Pan>0.500000</Pan>
     <Pitch>0.000000</Pitch>
@@ -3157,7 +3157,7 @@
         <Send2>0.000000</Send2>
         <Send3>0.000000</Send3>
         <Send4>0.000000</Send4>
-        <Volume>0.741279</Volume>
+        <Volume>0.696835</Volume>
         <Mute>False</Mute>
         <Pan>0.610000</Pan>
         <TuneCoarse>0</TuneCoarse>
@@ -3184,7 +3184,7 @@
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
         <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <Cutoff>0.000000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -3203,7 +3203,7 @@
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
         <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.050000</VolumeDecay>
+        <VolumeDecay>0.090000</VolumeDecay>
         <VolumeSustain>1.000000</VolumeSustain>
         <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
@@ -3212,7 +3212,7 @@
         <VelocityToPan>0.000000</VelocityToPan>
         <LFO>
           <Type>Sine</Type>
-          <Rate>0.500000</Rate>
+          <Rate>0.000000</Rate>
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
@@ -3557,7 +3557,7 @@
         <Send2>0.000000</Send2>
         <Send3>0.000000</Send3>
         <Send4>0.000000</Send4>
-        <Volume>0.574612</Volume>
+        <Volume>0.630168</Volume>
         <Mute>False</Mute>
         <Pan>0.500000</Pan>
         <TuneCoarse>0</TuneCoarse>
