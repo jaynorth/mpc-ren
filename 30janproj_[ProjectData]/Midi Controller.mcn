@@ -4,7 +4,7 @@
   <Version>
     <File_Version>1.7</File_Version>
     <Application>MPC-V</Application>
-    <Application_Version>1.9.0.11</Application_Version>
+    <Application_Version>1.9.2.15</Application_Version>
     <Platform>Windows</Platform>
   </Version>
   <MidiController>
@@ -947,6 +947,48 @@
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
       </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
     </Bank>
     <Bank number="1">
       <Mapping control="Step Seq">
@@ -1886,6 +1928,48 @@
         <ButtonToggle>False</ButtonToggle>
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
+      </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
       </Mapping>
     </Bank>
     <Bank number="2">
@@ -2827,6 +2911,48 @@
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
       </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
     </Bank>
     <Bank number="3">
       <Mapping control="Step Seq">
@@ -3766,6 +3892,48 @@
         <ButtonToggle>False</ButtonToggle>
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
+      </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
       </Mapping>
     </Bank>
     <Bank number="4">
@@ -4707,6 +4875,48 @@
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
       </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
     </Bank>
     <Bank number="5">
       <Mapping control="Step Seq">
@@ -5646,6 +5856,48 @@
         <ButtonToggle>False</ButtonToggle>
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
+      </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
       </Mapping>
     </Bank>
     <Bank number="6">
@@ -6587,6 +6839,48 @@
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
       </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
     </Bank>
     <Bank number="7">
       <Mapping control="Step Seq">
@@ -7526,6 +7820,48 @@
         <ButtonToggle>False</ButtonToggle>
         <PadVelocity>True</PadVelocity>
         <PadAftertouch>2</PadAftertouch>
+      </Mapping>
+      <Mapping control="Copy">
+        <type>0</type>
+        <midiChannel>0</midiChannel>
+        <Data1>40</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>0</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX X-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>11</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
+      </Mapping>
+      <Mapping control="XYFX Y-Axis">
+        <type>3</type>
+        <midiChannel>0</midiChannel>
+        <Data1>1</Data1>
+        <LightLED>2</LightLED>
+        <QLinkMode>0</QLinkMode>
+        <QLinkTouchSense>False</QLinkTouchSense>
+        <QLinkTouchNote>0</QLinkTouchNote>
+        <QLinkLow>0</QLinkLow>
+        <QLinkHigh>127</QLinkHigh>
+        <ButtonToggle>False</ButtonToggle>
+        <PadVelocity>False</PadVelocity>
+        <PadAftertouch>0</PadAftertouch>
       </Mapping>
     </Bank>
   </MidiController>

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Project>
+  <Version>
+    <File_Version>1.7</File_Version>
+    <Application>MPC-V</Application>
+    <Application_Version>1.9.2.15</Application_Version>
+    <Platform>Windows</Platform>
+  </Version>
+  <ProductCode>1299211094</ProductCode>
+  <BPM>120.000000</BPM>
+  <MasterVolume>0.707946</MasterVolume>
+  <FileList>
+    <File>.\wee_proj_february2016_[ProjectData]\All Sequences &amp; Songs.xal</File>
+    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-1.WAV</File>
+    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-2.WAV</File>
+    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-Dusty.WAV</File>
+    <File>.\wee_proj_february2016_[ProjectData]\New Sample.WAV</File>
+    <File>.\wee_proj_february2016_[ProjectData]\wee1.WAV</File>
+    <File>.\wee_proj_february2016_[ProjectData]\wee1-1.WAV</File>
+    <File>.\wee_proj_february2016_[ProjectData]\Program 001.xpm</File>
+    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-1ch.xpm</File>
+    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-1.xpm</File>
+    <File>.\wee_proj_february2016_[ProjectData]\wee1-1ch.xpm</File>
+    <File>.\wee_proj_february2016_[ProjectData]\Midi Controller.mcn</File>
+  </FileList>
+  <Mixer>
+    <Mixer.Input number="1">
+      <Name>Input</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Input>
+    <Mixer.Return number="1">
+      <Name>Return 1</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Return>
+    <Mixer.Return number="2">
+      <Name>Return 2</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Return>
+    <Mixer.Return number="3">
+      <Name>Return 3</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Return>
+    <Mixer.Return number="4">
+      <Name>Return 4</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Return>
+    <Mixer.Submix number="1">
+      <Name>Submix 1</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Submix number="2">
+      <Name>Submix 2</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Submix number="3">
+      <Name>Submix 3</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Submix number="4">
+      <Name>Submix 4</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Submix number="5">
+      <Name>Submix 5</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Submix number="6">
+      <Name>Submix 6</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Submix number="7">
+      <Name>Submix 7</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Submix number="8">
+      <Name>Submix 8</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Submix>
+    <Mixer.Output number="1">
+      <Name>Outputs 1/2</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="2">
+      <Name>Outputs 3/4</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="3">
+      <Name>Outputs 5/6</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="4">
+      <Name>Outputs 7/8</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="5">
+      <Name>Outputs 9/10</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="6">
+      <Name>Outputs 11/12</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="7">
+      <Name>Outputs 13/14</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="8">
+      <Name>Outputs 15/16</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="9">
+      <Name>Outputs 17/18</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="10">
+      <Name>Outputs 19/20</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="11">
+      <Name>Outputs 21/22</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="12">
+      <Name>Outputs 23/24</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="13">
+      <Name>Outputs 25/26</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="14">
+      <Name>Outputs 27/28</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="15">
+      <Name>Outputs 29/30</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+    <Mixer.Output number="16">
+      <Name>Outputs 31/32</Name>
+      <AudioRoute>
+        <AudioRoute>2</AudioRoute>
+        <AudioRouteSubIndex>0</AudioRouteSubIndex>
+        <InsertsEnabled>True</InsertsEnabled>
+      </AudioRoute>
+      <Send1>0.000000</Send1>
+      <Send2>0.000000</Send2>
+      <Send3>0.000000</Send3>
+      <Send4>0.000000</Send4>
+      <Volume>0.707946</Volume>
+      <Mute>False</Mute>
+      <Pan>0.500000</Pan>
+    </Mixer.Output>
+  </Mixer>
+  <FxQLinks>
+    <FxQlink number="1">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="2">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="3">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="4">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="5">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="6">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="7">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="8">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="9">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="10">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="11">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="12">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="13">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="14">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="15">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+    <FxQlink number="16">
+      <Controller>-1</Controller>
+      <Min>0.000000</Min>
+      <Max>100.000000</Max>
+      <TouchToMax>True</TouchToMax>
+      <FxIndex>-1</FxIndex>
+      <QLinkFxId>&lt;None&gt;</QLinkFxId>
+    </FxQlink>
+  </FxQLinks>
+  <EmulationType type="NONE"/>
+  <MasterTempo.Enabled>0</MasterTempo.Enabled>
+  <MasterTempo.Value>120.000000</MasterTempo.Value>
+  <Notes></Notes>
+</Project>
