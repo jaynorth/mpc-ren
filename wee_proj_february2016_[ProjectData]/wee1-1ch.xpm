@@ -174,6 +174,38 @@
       <ProgramNumber>0</ProgramNumber>
     </Insert1>
     <InsertEnable1>True</InsertEnable1>
+    <Insert2>
+      <Is64Bits>1</Is64Bits>
+      <Name>Compressor Vintage</Name>
+      <DescriptiveName>Compressor Vintage</DescriptiveName>
+      <FormatName>VST</FormatName>
+      <Category>Effect</Category>
+      <ManufacturerName>Akai Professional</ManufacturerName>
+      <FileOrID>C:\Program Files\Akai Pro\MPC\Fx\Compressor3.dll</FileOrID>
+      <UID>1094932041</UID>
+      <IsInstrument>0</IsInstrument>
+      <NumInput>2</NumInput>
+      <NumOutput>2</NumOutput>
+      <Data>228.CMlaKA....fQBMDZ....ADzPVkD...P.....................................................................................................................................................................................DA.....RgqyOMyLS9...........jBWO+.gO30C..............5in7ZnO..........P35QwO...f+...........</Data>
+      <ProgramNumber>0</ProgramNumber>
+    </Insert2>
+    <InsertEnable2>True</InsertEnable2>
+    <Insert3>
+      <Is64Bits>1</Is64Bits>
+      <Name>PEQ 2-Band, 2-Shelf</Name>
+      <DescriptiveName>PEQ 2-Band, 2-Shelf</DescriptiveName>
+      <FormatName>VST</FormatName>
+      <Category>Effect</Category>
+      <ManufacturerName>Akai Professional</ManufacturerName>
+      <FileOrID>C:\Program Files\Akai Pro\MPC\Fx\ParametricEqWithShelves.dll</FileOrID>
+      <UID>1094932071</UID>
+      <IsInstrument>0</IsInstrument>
+      <NumInput>2</NumInput>
+      <NumOutput>2</NumOutput>
+      <Data>228.CMlaKA....fQBMDZ....ADzPVcF...P.....................................................................................................................................................................................DA....vAd8vO.....XlYl6C.........+jBWO7C433xO.....X5iB7yLyLqOoOoG+......w1DdO.........9C.....</Data>
+      <ProgramNumber>0</ProgramNumber>
+    </Insert3>
+    <InsertEnable3>True</InsertEnable3>
     <Send1>0.000000</Send1>
     <Send2>0.000000</Send2>
     <Send3>0.000000</Send3>
