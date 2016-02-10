@@ -505,7 +505,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -519,7 +519,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -533,7 +533,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -547,7 +547,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -561,7 +561,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -575,7 +575,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -589,7 +589,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -603,7 +603,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -617,7 +617,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -631,7 +631,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -645,7 +645,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -659,7 +659,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -673,7 +673,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -687,7 +687,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -701,7 +701,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -715,7 +715,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1487,7 +1487,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1501,7 +1501,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1515,7 +1515,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1529,7 +1529,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1543,7 +1543,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1557,7 +1557,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1571,7 +1571,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1585,7 +1585,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1599,7 +1599,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1613,7 +1613,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1627,7 +1627,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1641,7 +1641,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1655,7 +1655,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1669,7 +1669,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1683,7 +1683,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -1697,7 +1697,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2469,7 +2469,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2483,7 +2483,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2497,7 +2497,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2511,7 +2511,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2525,7 +2525,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2539,7 +2539,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2553,7 +2553,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2567,7 +2567,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2581,7 +2581,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2595,7 +2595,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2609,7 +2609,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2623,7 +2623,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2637,7 +2637,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2651,7 +2651,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2665,7 +2665,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -2679,7 +2679,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3451,7 +3451,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3465,7 +3465,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3479,7 +3479,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3493,7 +3493,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3507,7 +3507,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3521,7 +3521,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3535,7 +3535,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3549,7 +3549,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3563,7 +3563,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3577,7 +3577,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3591,7 +3591,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3605,7 +3605,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3619,7 +3619,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3633,7 +3633,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3647,7 +3647,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -3661,7 +3661,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4433,7 +4433,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4447,7 +4447,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4461,7 +4461,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4475,7 +4475,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4489,7 +4489,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4503,7 +4503,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4517,7 +4517,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4531,7 +4531,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4545,7 +4545,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4559,7 +4559,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4573,7 +4573,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4587,7 +4587,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4601,7 +4601,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4615,7 +4615,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4629,7 +4629,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -4643,7 +4643,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5415,7 +5415,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5429,7 +5429,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5443,7 +5443,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5457,7 +5457,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5471,7 +5471,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5485,7 +5485,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5499,7 +5499,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5513,7 +5513,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5527,7 +5527,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5541,7 +5541,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5555,7 +5555,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5569,7 +5569,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5583,7 +5583,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5597,7 +5597,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5611,7 +5611,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -5625,7 +5625,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6397,7 +6397,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6411,7 +6411,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6425,7 +6425,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6439,7 +6439,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6453,7 +6453,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6467,7 +6467,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6481,7 +6481,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6495,7 +6495,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6509,7 +6509,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6523,7 +6523,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6537,7 +6537,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6551,7 +6551,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6565,7 +6565,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6579,7 +6579,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6593,7 +6593,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -6607,7 +6607,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7379,7 +7379,7 @@
         <Data1>100</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>0</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7393,7 +7393,7 @@
         <Data1>101</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>1</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7407,7 +7407,7 @@
         <Data1>102</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>2</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7421,7 +7421,7 @@
         <Data1>103</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>3</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7435,7 +7435,7 @@
         <Data1>104</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>4</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7449,7 +7449,7 @@
         <Data1>105</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>5</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7463,7 +7463,7 @@
         <Data1>106</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>6</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7477,7 +7477,7 @@
         <Data1>107</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>7</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7491,7 +7491,7 @@
         <Data1>108</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>8</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7505,7 +7505,7 @@
         <Data1>109</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>9</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7519,7 +7519,7 @@
         <Data1>110</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>10</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7533,7 +7533,7 @@
         <Data1>111</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>11</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7547,7 +7547,7 @@
         <Data1>112</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>12</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7561,7 +7561,7 @@
         <Data1>113</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>13</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7575,7 +7575,7 @@
         <Data1>114</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>14</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>
@@ -7589,7 +7589,7 @@
         <Data1>115</Data1>
         <LightLED>2</LightLED>
         <QLinkMode>0</QLinkMode>
-        <QLinkTouchSense>True</QLinkTouchSense>
+        <QLinkTouchSense>False</QLinkTouchSense>
         <QLinkTouchNote>15</QLinkTouchNote>
         <QLinkLow>0</QLinkLow>
         <QLinkHigh>127</QLinkHigh>

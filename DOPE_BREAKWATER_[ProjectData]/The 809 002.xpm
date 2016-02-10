@@ -171,11 +171,27 @@
       <AudioRouteSubIndex>0</AudioRouteSubIndex>
       <InsertsEnabled>True</InsertsEnabled>
     </AudioRoute>
+    <Insert1>
+      <Is64Bits>1</Is64Bits>
+      <Name>Reverb Small</Name>
+      <DescriptiveName>Reverb Small</DescriptiveName>
+      <FormatName>VST</FormatName>
+      <Category>Effect</Category>
+      <ManufacturerName>Akai Professional</ManufacturerName>
+      <FileOrID>C:\Program Files\Akai Pro\MPC\Fx\ReverbSmall.dll</FileOrID>
+      <UID>1094932035</UID>
+      <IsInstrument>0</IsInstrument>
+      <NumInput>2</NumInput>
+      <NumOutput>2</NumOutput>
+      <Data>228.CMlaKA....fQBMDZ....ADzPVMD...P.....................................................................................................................................................................................DA........vOjBWO+................nYlY3C..........TfZ86C...vO..........flYloOZlYl9...........</Data>
+      <ProgramNumber>0</ProgramNumber>
+    </Insert1>
+    <InsertEnable1>True</InsertEnable1>
     <Send1>0.000000</Send1>
     <Send2>0.000000</Send2>
     <Send3>0.000000</Send3>
     <Send4>0.000000</Send4>
-    <Volume>0.707946</Volume>
+    <Volume>0.700000</Volume>
     <Mute>False</Mute>
     <Pan>0.500000</Pan>
     <Qlinks>
