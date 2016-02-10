@@ -162,7 +162,7 @@
     <Send2>0.000000</Send2>
     <Send3>0.000000</Send3>
     <Send4>0.000000</Send4>
-    <Volume>0.707946</Volume>
+    <Volume>0.731383</Volume>
     <Mute>False</Mute>
     <Pan>0.500000</Pan>
     <Pitch>4.000000</Pitch>
@@ -207,8 +207,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -391,8 +391,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -591,8 +591,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -775,8 +775,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -959,8 +959,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -1143,8 +1143,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -1327,8 +1327,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -1511,8 +1511,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -1695,8 +1695,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -1879,8 +1879,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -2063,8 +2063,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -2247,8 +2247,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -2431,8 +2431,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -2615,8 +2615,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -2799,8 +2799,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -2983,8 +2983,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -3167,8 +3167,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -3351,8 +3351,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -3535,8 +3535,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -3719,8 +3719,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -3903,8 +3903,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -4087,8 +4087,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -4271,8 +4271,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -4455,8 +4455,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -4639,8 +4639,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -4823,8 +4823,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -5007,8 +5007,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -5191,8 +5191,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -5375,8 +5375,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -5559,8 +5559,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -5743,8 +5743,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -5927,8 +5927,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -6111,8 +6111,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>False</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -6295,8 +6295,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -6479,8 +6479,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -6663,8 +6663,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -6847,8 +6847,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -7031,8 +7031,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -7215,8 +7215,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -7399,8 +7399,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -7583,8 +7583,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -7767,8 +7767,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -7951,8 +7951,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -8135,8 +8135,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -8319,8 +8319,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -8503,8 +8503,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -8687,8 +8687,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -8871,8 +8871,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -9055,8 +9055,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -9239,8 +9239,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -9423,8 +9423,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -9607,8 +9607,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -9791,8 +9791,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -9975,8 +9975,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -10159,8 +10159,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -10343,8 +10343,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -10527,8 +10527,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -10711,8 +10711,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -10895,8 +10895,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -11079,8 +11079,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -11263,8 +11263,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -11447,8 +11447,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -11631,8 +11631,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -11815,8 +11815,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -11999,8 +11999,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -12183,8 +12183,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -12367,8 +12367,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -12551,8 +12551,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -12735,8 +12735,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -12919,8 +12919,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -13103,8 +13103,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -13287,8 +13287,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -13471,8 +13471,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -13655,8 +13655,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -13839,8 +13839,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -14023,8 +14023,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -14207,8 +14207,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -14391,8 +14391,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -14575,8 +14575,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -14759,8 +14759,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -14943,8 +14943,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -15127,8 +15127,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -15311,8 +15311,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -15495,8 +15495,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -15679,8 +15679,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -15863,8 +15863,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -16047,8 +16047,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -16231,8 +16231,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -16415,8 +16415,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -16599,8 +16599,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -16783,8 +16783,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -16967,8 +16967,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -17151,8 +17151,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -17335,8 +17335,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -17519,8 +17519,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -17703,8 +17703,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -17887,8 +17887,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -18071,8 +18071,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -18255,8 +18255,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -18439,8 +18439,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -18623,8 +18623,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -18807,8 +18807,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -18991,8 +18991,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -19175,8 +19175,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -19359,8 +19359,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -19543,8 +19543,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -19727,8 +19727,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -19911,8 +19911,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -20095,8 +20095,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -20279,8 +20279,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -20463,8 +20463,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -20647,8 +20647,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -20831,8 +20831,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -21015,8 +21015,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -21199,8 +21199,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -21383,8 +21383,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -21567,8 +21567,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -21751,8 +21751,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -21935,8 +21935,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -22119,8 +22119,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -22303,8 +22303,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -22487,8 +22487,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -22671,8 +22671,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -22855,8 +22855,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -23039,8 +23039,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -23223,8 +23223,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -23407,8 +23407,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
@@ -23591,8 +23591,8 @@
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
         <OneShot>True</OneShot>
-        <FilterType>0</FilterType>
-        <Cutoff>1.000000</Cutoff>
+        <FilterType>3</FilterType>
+        <Cutoff>0.920000</Cutoff>
         <Resonance>0.000000</Resonance>
         <FilterEnvAmt>0.000000</FilterEnvAmt>
         <AfterTouchToFilter>0.000000</AfterTouchToFilter>
