@@ -11,13 +11,11 @@
   <BPM>120.000000</BPM>
   <MasterVolume>0.759946</MasterVolume>
   <FileList>
-    <File>.\DOPE_BREAKWATER_[ProjectData]\All Sequences &amp; Songs.xal</File>
-    <File>.\DOPE_BREAKWATER_[ProjectData]\BREAKWATER1.WAV</File>
-    <File>.\DOPE_BREAKWATER_[ProjectData]\Program 001.xpm</File>
-    <File>.\DOPE_BREAKWATER_[ProjectData]\BREAKWATER1ch.xpm</File>
-    <File>.\DOPE_BREAKWATER_[ProjectData]\Plugin 001.xpm</File>
-    <File>.\DOPE_BREAKWATER_[ProjectData]\The 809 002.xpm</File>
-    <File>.\DOPE_BREAKWATER_[ProjectData]\Midi Controller.mcn</File>
+    <File>.\hjfjgfgfj_[ProjectData]\All Sequences &amp; Songs.xal</File>
+    <File>.\hjfjgfgfj_[ProjectData]\fabulousCounts.WAV</File>
+    <File>.\hjfjgfgfj_[ProjectData]\Program 001.xpm</File>
+    <File>.\hjfjgfgfj_[ProjectData]\fabulousCountsch.xpm</File>
+    <File>.\hjfjgfgfj_[ProjectData]\Midi Controller.mcn</File>
   </FileList>
   <Mixer>
     <Mixer.Input number="1">
@@ -220,24 +218,8 @@
       <AudioRoute>
         <AudioRoute>2</AudioRoute>
         <AudioRouteSubIndex>0</AudioRouteSubIndex>
-        <InsertsEnabled>False</InsertsEnabled>
+        <InsertsEnabled>True</InsertsEnabled>
       </AudioRoute>
-      <Insert1>
-        <Is64Bits>1</Is64Bits>
-        <Name>Compressor Vintage</Name>
-        <DescriptiveName>Compressor Vintage</DescriptiveName>
-        <FormatName>VST</FormatName>
-        <Category>Effect</Category>
-        <ManufacturerName>Akai Professional</ManufacturerName>
-        <FileOrID>C:\Program Files\Akai Pro\MPC\Fx\Compressor3.dll</FileOrID>
-        <UID>1094932041</UID>
-        <IsInstrument>0</IsInstrument>
-        <NumInput>2</NumInput>
-        <NumOutput>2</NumOutput>
-        <Data>228.CMlaKA....fQBMDZ....ADzPVkD...P.....................................................................................................................................................................................DA....flYlwOMyLS9...........ZlYF+................rppp5CJuFhO..........fYlYxO...f+...........</Data>
-        <ProgramNumber>0</ProgramNumber>
-      </Insert1>
-      <InsertEnable1>True</InsertEnable1>
       <Send1>0.000000</Send1>
       <Send2>0.000000</Send2>
       <Send3>0.000000</Send3>
