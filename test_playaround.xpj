@@ -11,20 +11,11 @@
   <BPM>120.000000</BPM>
   <MasterVolume>0.707946</MasterVolume>
   <FileList>
-    <File>.\wee_proj_february2016_[ProjectData]\All Sequences &amp; Songs.xal</File>
-    <File>.\wee_proj_february2016_[ProjectData]\BREAKWATER1.WAV</File>
-    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-1.WAV</File>
-    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-2.WAV</File>
-    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-Dusty.WAV</File>
-    <File>.\wee_proj_february2016_[ProjectData]\New Sample.WAV</File>
-    <File>.\wee_proj_february2016_[ProjectData]\wee1.WAV</File>
-    <File>.\wee_proj_february2016_[ProjectData]\wee1-1.WAV</File>
-    <File>.\wee_proj_february2016_[ProjectData]\Program 001.xpm</File>
-    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-1ch.xpm</File>
-    <File>.\wee_proj_february2016_[ProjectData]\hartysJetBand-1.xpm</File>
-    <File>.\wee_proj_february2016_[ProjectData]\wee1-1ch.xpm</File>
-    <File>.\wee_proj_february2016_[ProjectData]\BREAKWATER1ch.xpm</File>
-    <File>.\wee_proj_february2016_[ProjectData]\Midi Controller.mcn</File>
+    <File>.\test_playaround_[ProjectData]\All Sequences &amp; Songs.xal</File>
+    <File>.\test_playaround_[ProjectData]\hartysJetBand-1.WAV</File>
+    <File>.\test_playaround_[ProjectData]\Program 001.xpm</File>
+    <File>.\test_playaround_[ProjectData]\hartysJetBand-1ch.xpm</File>
+    <File>.\test_playaround_[ProjectData]\Midi Controller.mcn</File>
   </FileList>
   <Mixer>
     <Mixer.Input number="1">
