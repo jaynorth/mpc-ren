@@ -13,11 +13,13 @@
   <FileList>
     <File>.\DOPE_BREAKWATER_[ProjectData]\All Sequences &amp; Songs.xal</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\BREAKWATER1.WAV</File>
+    <File>.\DOPE_BREAKWATER_[ProjectData]\danielaUndAnn.WAV</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\Program 001.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\BREAKWATER1ch.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\Plugin 001.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\The 809 002.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\Midi 001.xpm</File>
+    <File>.\DOPE_BREAKWATER_[ProjectData]\danielaUndAnnch.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\Midi Controller.mcn</File>
   </FileList>
   <Mixer>
