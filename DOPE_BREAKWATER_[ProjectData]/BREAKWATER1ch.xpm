@@ -1117,9 +1117,9 @@
         <Send2>0.000000</Send2>
         <Send3>0.000000</Send3>
         <Send4>0.000000</Send4>
-        <Volume>0.541279</Volume>
+        <Volume>0.707946</Volume>
         <Mute>False</Mute>
-        <Pan>0.790000</Pan>
+        <Pan>0.510000</Pan>
         <TuneCoarse>0</TuneCoarse>
         <TuneFine>0</TuneFine>
         <Mono>True</Mono>
@@ -1301,9 +1301,9 @@
         <Send2>0.000000</Send2>
         <Send3>0.000000</Send3>
         <Send4>0.000000</Send4>
-        <Volume>0.841279</Volume>
+        <Volume>0.719057</Volume>
         <Mute>False</Mute>
-        <Pan>0.220000</Pan>
+        <Pan>0.500000</Pan>
         <TuneCoarse>0</TuneCoarse>
         <TuneFine>0</TuneFine>
         <Mono>True</Mono>

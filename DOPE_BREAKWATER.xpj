@@ -9,7 +9,7 @@
   </Version>
   <ProductCode>1299211094</ProductCode>
   <BPM>120.000000</BPM>
-  <MasterVolume>0.759946</MasterVolume>
+  <MasterVolume>0.643946</MasterVolume>
   <FileList>
     <File>.\DOPE_BREAKWATER_[ProjectData]\All Sequences &amp; Songs.xal</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\BREAKWATER1.WAV</File>
@@ -17,6 +17,7 @@
     <File>.\DOPE_BREAKWATER_[ProjectData]\BREAKWATER1ch.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\Plugin 001.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\The 809 002.xpm</File>
+    <File>.\DOPE_BREAKWATER_[ProjectData]\Midi 001.xpm</File>
     <File>.\DOPE_BREAKWATER_[ProjectData]\Midi Controller.mcn</File>
   </FileList>
   <Mixer>
